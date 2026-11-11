@@ -1,0 +1,16 @@
+2026-11-10 20:29:42,700 | INFO | viajes_api | Request completed | trace_id=59de290b-c3a2-4ec0-a73a-cc8dba52a51c | method=GET | path=/ | status_code=200 | duration=0.0485s
+2026-11-10 20:30:11,998 | INFO | viajes_api | Request completed | trace_id=c57a377f-397e-4d2e-ba30-cfaaa0edafd6 | method=GET | path=/api/auth/me | status_code=401 | duration=0.0162s
+2026-11-11 10:56:37,500 | INFO | viajes_api | Request completed | trace_id=b78c3ba8-1fa2-47e8-9e45-56b5edf84632 | method=OPTIONS | path=/api/auth/login | status_code=200 | duration=0.0018s
+2026-11-11 10:56:38,252 | INFO | viajes_api | Request completed | trace_id=625d29f3-8a8f-4125-8b1b-f48901d4aff4 | method=POST | path=/api/auth/login | status_code=200 | duration=0.7397s
+2026-11-11 11:01:49,201 | INFO | viajes_api | Request completed | trace_id=075b2789-98e1-49b1-b049-ca41548c6590 | method=POST | path=/api/auth/login | status_code=200 | duration=0.2062s
+2026-11-11 11:02:06,522 | INFO | viajes_api | Request completed | trace_id=a102811b-e9fc-42a2-80ed-b7974e0719d4 | method=POST | path=/api/auth/login | status_code=200 | duration=0.1375s
+2026-11-11 11:07:19,788 | INFO | viajes_api | Request completed | trace_id=593409ad-12a4-4e0b-87fe-145d2b9da1a9 | method=OPTIONS | path=/api/auth/login | status_code=200 | duration=0.0040s
+2026-11-11 11:07:20,014 | INFO | viajes_api | Request completed | trace_id=f0f8abab-e47d-4496-866e-6c588e1bc4c6 | method=POST | path=/api/auth/login | status_code=200 | duration=0.2169s
+2026-11-11 11:07:23,564 | INFO | viajes_api | Request completed | trace_id=05d7d592-c558-4156-a229-d58bc6adfc74 | method=POST | path=/api/auth/login | status_code=401 | duration=0.1313s
+2026-11-11 11:10:00,915 | INFO | viajes_api | Request completed | trace_id=75ac936f-2ac2-478e-b75d-6a1f7b7dd622 | method=POST | path=/api/auth/login | status_code=200 | duration=0.1880s
+2026-11-11 11:10:00,928 | INFO | viajes_api | Request completed | trace_id=361fddfa-7c78-4794-945d-17fe9b88c2cc | method=OPTIONS | path=/api/auth/me | status_code=200 | duration=0.0006s
+2026-11-11 11:10:01,068 | INFO | viajes_api | Request completed | trace_id=bfcfdbf6-4500-4121-bc0e-7b702571ad47 | method=GET | path=/api/auth/me | status_code=200 | duration=0.1337s
+2026-11-11 12:02:25,922 | INFO | viajes_api | Request completed | trace_id=302f566c-9dcb-4cba-a440-ea3e3d082b09 | method=OPTIONS | path=/api/auth/login | status_code=200 | duration=0.0007s
+2026-11-11 12:02:26,401 | INFO | viajes_api | Request completed | trace_id=5ac72506-8958-4637-adc0-62f164ffc988 | method=POST | path=/api/auth/login | status_code=200 | duration=0.4719s
+2026-11-11 12:02:26,413 | INFO | viajes_api | Request completed | trace_id=830db475-991b-4ce3-b6ad-0e4e38153a7e | method=OPTIONS | path=/api/auth/me | status_code=200 | duration=0.0012s
+2026-11-11 12:02:26,433 | INFO | viajes_api | Request completed | trace_id=0773c1fb-c701-4ca1-bd6b-45ad873e86c7 | method=GET | path=/api/auth/me | status_code=200 | duration=0.0163s
