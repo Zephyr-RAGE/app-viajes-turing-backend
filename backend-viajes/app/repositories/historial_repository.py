@@ -37,3 +37,7 @@ class HistorialRepository:
         self.db.flush()
         self.db.refresh(historial)
         return historial
+
+    def delete(self, historial: Historial) -> None:
+        self.db.delete(historial)
+        self.db.flush()
