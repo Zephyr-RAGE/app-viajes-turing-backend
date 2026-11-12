@@ -9,6 +9,9 @@ class Settings(BaseSettings):
     DB_HOST: str
     DB_PORT: int
 
+    EXCHANGE_RATE_API_KEY: str
+    OPENWEATHER_API_KEY: str
+
     APP_TOKEN_SECRET: str
 
     model_config = SettingsConfigDict(
